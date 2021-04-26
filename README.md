@@ -7,4 +7,6 @@ Welcome to my profile. I am interested in programming and game development. I am
 - 👦🏻 Age: 17
 - 📫 How to reach me: adam.heczko@gmail.com\
 \
-![Adam077x GitHub stats](https://github-readme-stats.vercel.app/api?username=adam077x&include_all_commits=true)
+![Adam077x GitHub stats](https://github-readme-stats.vercel.app/api?username=adam077x&include_all_commits=true)\
+\
+![Adam077x GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adam077x&layout=compact)

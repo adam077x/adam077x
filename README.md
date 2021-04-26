@@ -1,4 +1,4 @@
-#  Hi there, I'm Adam 👋
+##  Hi there, I'm Adam 👋
 
 - 🔨 Programming languages I mainly use: Java, C#, C++, Javascript
 - 🔧 Tools/Frameworks I often use: [Unity](https://unity.com/), [Godot](https://godotengine.org/), [LibGDX](https://libgdx.com/)

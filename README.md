@@ -2,7 +2,7 @@
 Welcome to my profile. I am interested in programming and game development. I am still high school student. 
 
 - 🔨 Programming languages I mainly use: Java, C#, C++, Javascript
-- 🔧 Tools/Frameworks I often use: [Unity](https://unity.com/), [Godot](https://godotengine.org/), [LibGDX](https://libgdx.com/)
+- 🔧 Tools/Frameworks I often use: [Unity](https://unity.com/), [LibGDX](https://libgdx.com/)
 - 🔭 Working on: [LiteCode](http://litecode.net/)
 - 👦🏻 Age: 17
 - 📫 How to reach me: adam.heczko@gmail.com\

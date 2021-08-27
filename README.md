@@ -1,12 +1,15 @@
 ##  Hi there, I'm Adam 👋
 Welcome to my profile. I am interested in programming and game development. I am still high school student. 
 
-- 🔨 Programming languages I mainly use: Java, C#, C++, Javascript
-- 🔧 Tools/Frameworks I often use: [Unity](https://unity.com/), [LibGDX](https://libgdx.com/)
 - 🔭 Working on: [LiteCode](http://litecode.net/)
-- 👦🏻 Age: 17
-- 📫 How to reach me: adam.heczko@gmail.com\
-\
-![Adam077x GitHub stats](https://github-readme-stats.vercel.app/api?username=adam077x&include_all_commits=true)\
+### Contact me:
+[<img align="left" alt="adam077x | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="adam077x | Email" width="32px" src="https://icons.getbootstrap.com/assets/icons/mailbox.svg" />][email]
+</br>
+</br>
+---
 \
 ![Adam077x GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adam077x&layout=compact)
+
+[twitter]: https://twitter.com/adam077x
+[email]: mailto:adam.heczko@gmail.com

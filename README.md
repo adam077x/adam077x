@@ -1,5 +1,5 @@
 ##  Hi there, I'm Adam 👋
-Welcome to my profile. I am interested in programming and game development. I am still high school student. 
+Welcome to my profile. I am interested in web app development, game dev and programming in general.
 
 - 🔭 Working on: [LiteCode](http://litecode.net/)
 ### Contact me:

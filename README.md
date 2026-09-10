@@ -7,5 +7,4 @@ Welcome to my profile. I am interested in web app development, game development 
 </br>
 </br>
 
-[twitter]: https://twitter.com/adam077x
 [email]: mailto:adam.heczko@gmail.com
